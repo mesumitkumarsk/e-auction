@@ -1,5 +1,3 @@
-package eauction;
-
 import java.sql.*;
 
 public class Conn {
