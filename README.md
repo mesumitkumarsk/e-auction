@@ -1,4 +1,4 @@
-## Auction Webite [![License MIT][badge-license]](LICENSE)
+## Auction Webite
 
 
 ![alt tag](screenshots/index.png)
